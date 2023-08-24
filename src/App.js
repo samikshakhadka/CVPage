@@ -9,7 +9,7 @@ function App() {
       <p className="text-center text-lg font-bold">SAMIKSHA KHADKA</p>
       <div className="text-center text-lg font-medium">
         <a href="https://www.linkedin.com/in/samiksha-khadka-865b281a1/">LinkedIn</a> | <a href="#">Github</a> | <a href="#">Medium</a><br />
-        Email: swabhimankhadka2001@gmail.com | Phone: 987654321
+        Email: swabhimankhadka2001@gmail.com | Phone: 9861172978
       </div>
 
       <div className="mt-2">
