@@ -3,7 +3,6 @@ import './App.css';
 
 function App() {
   return (
-
     <div className="h-screen cursor-not-allowed">
     <div className="bg-white mx-auto max-w-4xl p-10 border border-gray-300">
       <p className="text-center text-lg font-bold">SAMIKSHA KHADKA</p>
@@ -215,20 +214,6 @@ function App() {
         </ul>
 
       </div>
-
-      <button className="bg-blue-500 text-white py-2 px-4 rounded pointer-events-none">
-        Non-Interactive Button
-      </button>
-
-
-
-
-
-
-
-
-
-
     </div>
     </div>
   );
